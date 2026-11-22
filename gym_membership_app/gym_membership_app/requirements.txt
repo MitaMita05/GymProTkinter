@@ -1,0 +1,2 @@
+# Tidak ada dependensi eksternal.
+# tkinter dan sqlite3 sudah termasuk di instalasi Python standar.
